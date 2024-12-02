@@ -1,0 +1,6 @@
+cx_Oracle
+pandas
+numpy
+SQLAlchemy
+tqdm
+python-dotenv
